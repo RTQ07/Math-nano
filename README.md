@@ -1,4 +1,3 @@
-```markdown
 # Math Nano GPT: Democratizing Contextual Reasoning in Mathematical Frameworks
 
 ## Author: Rupert Tawiah-Quashie
@@ -254,4 +253,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Rupert Tawiah-Quashie - [rupertquashie@gmail.com]
-```
+
