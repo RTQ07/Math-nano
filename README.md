@@ -191,36 +191,38 @@ regex==2021.8.28
 ### Setup
 
 1. Clone the repository:
-
+   ```
    git clone https://github.com/yourusername/math-nano-gpt.git
    cd math-nano-gpt
-
+   ```
 
 2. Install dependencies:
-
+   ```
    pip install -r requirements.txt
-
+   ```
 
 ### Usage
 
 - Pre-training:
-
+  ```
   python train_nano.py
-
+  ```
 
 - Fine-tuning:
-
+  ```
   python finetuning.py
-
+  ```
 
 - Generate text:
-
+  ```
   python generate.py
-
+  ```
 
 - Interactive Q&A:
-
+  ```
   python askSLM.py
+  ```
+
 
 
 ## Project Structure
