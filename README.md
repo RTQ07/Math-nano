@@ -187,7 +187,6 @@ pandas==1.3.3
 scipy==1.7.1
 nltk==3.6.3
 regex==2021.8.28
-``
 
 ### Setup
 
