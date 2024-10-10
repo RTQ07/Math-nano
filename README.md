@@ -1,5 +1,3 @@
-Certainly! Here's the README content in a format that you can directly copy and paste into a .md file:
-
 ```markdown
 # Math Nano GPT: Democratizing Contextual Reasoning in Mathematical Frameworks
 
@@ -174,7 +172,7 @@ Math Nano GPT represents a significant step towards creating accessible, efficie
 
 ### Requirements
 
-```
+
 torch==1.9.0
 transformers==4.11.3
 datasets==1.11.0
@@ -189,42 +187,42 @@ pandas==1.3.3
 scipy==1.7.1
 nltk==3.6.3
 regex==2021.8.28
-```
+``
 
 ### Setup
 
 1. Clone the repository:
-   ```
+
    git clone https://github.com/yourusername/math-nano-gpt.git
    cd math-nano-gpt
-   ```
+
 
 2. Install dependencies:
-   ```
+
    pip install -r requirements.txt
-   ```
+
 
 ### Usage
 
 - Pre-training:
-  ```
+
   python train_nano.py
-  ```
+
 
 - Fine-tuning:
-  ```
+
   python finetuning.py
-  ```
+
 
 - Generate text:
-  ```
+
   python generate.py
-  ```
+
 
 - Interactive Q&A:
-  ```
+
   python askSLM.py
-  ```
+
 
 ## Project Structure
 
