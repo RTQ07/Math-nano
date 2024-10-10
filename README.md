@@ -171,7 +171,7 @@ Math Nano GPT represents a significant step towards creating accessible, efficie
 
 ### Requirements
 
-
+```
 torch==1.9.0
 transformers==4.11.3
 datasets==1.11.0
@@ -186,6 +186,7 @@ pandas==1.3.3
 scipy==1.7.1
 nltk==3.6.3
 regex==2021.8.28
+```
 
 ### Setup
 
@@ -244,7 +245,7 @@ I extend my deepest gratitude to:
 
 ## References
 
-[Include full list of references from your thesis]
+References are in the thesis
 
 ## License
 
